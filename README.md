@@ -14,3 +14,4 @@ MATLAB executable files:
 3. ./matlab
 4. Open the folder Dynamics_HW1
 5. Run “AR_601M” ! You must have Robotics ToolBox (http://petercorke.com/wordpress/toolboxes/robotics-toolbox)
+![alt text](https://sun9-47.userapi.com/c858016/v858016264/967bb/mTI446nWF-I.jpg)
