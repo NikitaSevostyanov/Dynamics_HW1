@@ -8,3 +8,9 @@ How to open:
 2. Run AR_601M.m project 
 3. In file AR_601M.m you can set different angles theta by adding needed angles in matrix q0.
 4. You can gain the result with command line,just write "T" for viewing the result of my method and "Direct" for viewing the result of MATLAB function fkine.
+# How to Run
+1. Open directory, where you are going to work
+2. git clone https://github.com/NikitaSevostyanov/Dynamics_HW1.git
+3. ./matlab
+4. Open the folder Dynamics_HW1
+5. Run “AR_601M” ! You must have Robotics ToolBox (http://petercorke.com/wordpress/toolboxes/robotics-toolbox)
